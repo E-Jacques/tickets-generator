@@ -5,7 +5,7 @@ from random import choice
 from string import ascii_letters, digits
 
 HASH_CHAR = ascii_letters + digits
-WEBSITE_URL = "http://localhost/"
+WEBSITE_URL = "http://51.255.50.66/"
 
 def clear_qrcode_dir() -> None:
     for img in listdir("qrcode"):
