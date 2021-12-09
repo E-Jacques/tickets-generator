@@ -3,4 +3,4 @@ qrcode
 node_modules
 hash.txt
 template.png
-server.js
+// server.js
